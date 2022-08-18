@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meditadiones de un cualquiera</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Meditadiones de un cualquiera</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Aug 2022 00:27:37 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bienvenidos</title>
+      <link>http://example.org/posts/bienvenidos/</link>
+      <pubDate>Wed, 17 Aug 2022 00:27:37 +0200</pubDate>
+      
+      <guid>http://example.org/posts/bienvenidos/</guid>
+      <description>Que pachaaa chavalessss</description>
+    </item>
+    
+    <item>
+      <title>Primer Post</title>
+      <link>http://example.org/posts/primer-post/</link>
+      <pubDate>Wed, 17 Aug 2022 00:26:11 +0200</pubDate>
+      
+      <guid>http://example.org/posts/primer-post/</guid>
+      <description>Primer bla bla bla</description>
+    </item>
+    
+    <item>
+      <title>Primera entrada blog</title>
+      <link>http://example.org/contacto/</link>
+      <pubDate>Tue, 16 Aug 2022 17:59:57 +0200</pubDate>
+      
+      <guid>http://example.org/contacto/</guid>
+      <description>¿Que encontraras aquí?
+-Reseñas de libros -Artículos de opinion -Relatos cortos propios</description>
+    </item>
+    
+  </channel>
+</rss>
