@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>Primer Post</title>
+      <title>Primer post</title>
       <link>http://example.org/posts/primer-post/</link>
       <pubDate>Wed, 17 Aug 2022 00:26:11 +0200</pubDate>
       
@@ -26,13 +26,13 @@
     </item>
     
     <item>
-      <title>Primera entrada blog</title>
+      <title>Me presento</title>
       <link>http://example.org/contacto/</link>
       <pubDate>Tue, 16 Aug 2022 17:59:57 +0200</pubDate>
       
       <guid>http://example.org/contacto/</guid>
       <description>¿Que encontraras aquí?
--Reseñas de libros -Artículos de opinion -Relatos cortos propios</description>
+-Reseñas de libros -Artículos de opinion -Relatos cortos propios -bla bal bal -bla blalaaaaala</description>
     </item>
     
   </channel>
