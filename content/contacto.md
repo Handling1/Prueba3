@@ -6,7 +6,7 @@ draft: False
 
 ¿Que encontraras aquí?
 
--Reseñas de libros bb
+-Reseñas de libros
 -Artículos de opinion
 -Relatos cortos propios
 -bla bal bal
