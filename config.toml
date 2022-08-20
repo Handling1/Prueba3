@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://handling1.github.io/Prueba3/'
 languageCode = 'en-us'
 title = 'Meditadiones de un cualquiera'
 theme = "tale-hugo-master"
